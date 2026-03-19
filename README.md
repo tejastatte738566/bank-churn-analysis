@@ -122,10 +122,11 @@ ORDER BY Churn_Rate_Pct DESC;
 
 ## 👤 About Me
 
-**[Tumhara Naam]** — Aspiring Data Analyst  
-📧 Email: [tumhari email]  
-💼 LinkedIn: [tumhara LinkedIn URL]  
-🐙 GitHub: [tumhara GitHub URL]
+
+**Tejas Tatte** — Aspiring Data Analyst  
+📧 Email: tejastatte97@gmail.com  
+💼 LinkedIn: [linkedin.com/in/tejas-tatte](https://linkedin.com/in/tejas-tatte)  
+🐙 GitHub: [github.com/tejastatte738566](https://github.com/tejastatte738566)
 
 ---
 
